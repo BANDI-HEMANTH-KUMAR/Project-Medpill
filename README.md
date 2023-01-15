@@ -7,7 +7,7 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** - https://gray-island-0b4759a00.2.azurestaticapps.net
 
-**Project video demo URL link** - https://youtu.be/QmZcQGWXTKo 
+**Project video demo URL link** - https://youtu.be/6Mk4-Qv9_no 
 
 **Azure Technologies Used for this project**
 
